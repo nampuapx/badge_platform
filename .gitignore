@@ -1,0 +1,8 @@
+/Debug/Drivers/STM32F1xx_HAL_Driver/Src/*.o
+/Debug/Middlewares/Third_Party/FreeRTOS/Source/*.o
+/Debug/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/*.o
+*.o
+*.su
+*.list
+*.map
+*.launch
